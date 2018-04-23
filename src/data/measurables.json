@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "59a94916e9efa959e02d49e6",
+    "periodInterval": "weekly",
+    "targets": [
+      {
+        "_id": "59a94916e9efa959e02d49ea",
+        "seatholderId": "5968ab596861b8449c218e7e"
+      }
+    ],
+    "title": "Traxion Product Love",
+    "unit": "number"
+  },
+  {
+    "_id": "5ab27b637b5ab7000e9c1b4f",
+    "periodInterval": "weekly",
+    "targets": [
+      {
+        "_id": "5ab27b637b5ab7000e9c1b50",
+        "seatholderId": "5894b141ab5f580010faf1f4"
+      }
+    ],
+    "title": "Infrastructure Love",
+    "unit": "number"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "589348d38ebcc2000ea17f10",
+    "integrator": true,
+    "name": "Integrator",
+    "ordinal": 0,
+    "parentSeatId": "589348d38ebcc2000ea17f08",
+    "visionary": false
+  },
+  {
+    "_id": "58a1ec28b3e796000f14c094",
+    "integrator": false,
+    "name": "Channel Development",
+    "ordinal": 4,
+    "parentSeatId": "589348d38ebcc2000ea17f10",
+    "visionary": false
+  },
+  {
+    "_id": "589348d38ebcc2000ea17f23",
+    "integrator": false,
+    "name": "Finance",
+    "ordinal": 3,
+    "parentSeatId": "589348d38ebcc2000ea17f10",
+    "visionary": false
+  },
+  {
+    "_id": "593ec435b8ceb6000fe3bcc0",
+    "integrator": false,
+    "name": "Channel Rep",
+    "ordinal": 0,
+    "parentSeatId": "58a1ec28b3e796000f14c094",
+    "visionary": false
+  },
+  {
+    "_id": "59491297dc6ad500106b6f0d",
+    "integrator": false,
+    "name": "Product Support / QA Engineer",
+    "ordinal": 1,
+    "parentSeatId": "5894b141ab5f580010faf1f3",
+    "visionary": false
+  },
+  {
+    "_id": "5968ab306861b8449c218e0a",
+    "integrator": false,
+    "name": "Engineer",
+    "ordinal": 0,
+    "parentSeatId": "5894b141ab5f580010faf1f3",
+    "visionary": false
+  },
+  {
+    "_id": "59da6806bc4233000e2db930",
+    "integrator": false,
+    "name": "Marketing",
+    "ordinal": 1,
+    "parentSeatId": "589348d38ebcc2000ea17f10",
+    "visionary": false
+  },
+  {
+    "_id": "5894b116ab5f580010faf1ec",
+    "integrator": false,
+    "name": "Client Success Support",
+    "ordinal": 0,
+    "parentSeatId": "59f8acf8b85a49000e777368",
+    "visionary": false
+  },
+  {
+    "_id": "5894b141ab5f580010faf1f3",
+    "integrator": false,
+    "name": "Engineering",
+    "ordinal": 2,
+    "parentSeatId": "589348d38ebcc2000ea17f10",
+    "visionary": false
+  },
+  {
+    "_id": "589348d38ebcc2000ea17f08",
+    "integrator": false,
+    "name": "Visionary",
+    "ordinal": 0,
+    "parentSeatId": null,
+    "visionary": true
+  },
+  {
+    "_id": "58a1a188b3e796000f14b6d7",
+    "integrator": false,
+    "name": "Book Keeper",
+    "ordinal": 2,
+    "parentSeatId": "589348d38ebcc2000ea17f23",
+    "visionary": false
+  },
+  {
+    "_id": "591c710de2771618a4eeed1a",
+    "integrator": false,
+    "name": "Corp Dev",
+    "ordinal": 5,
+    "parentSeatId": "589348d38ebcc2000ea17f10",
+    "visionary": false
+  },
+  {
+    "_id": "591f2ae661f0861784767cd5",
+    "integrator": false,
+    "name": "Content & Reporting",
+    "ordinal": 1,
+    "parentSeatId": "59da6806bc4233000e2db930",
+    "visionary": false
+  },
+  {
+    "_id": "59f8acf8b85a49000e777368",
+    "integrator": false,
+    "name": "Client Success",
+    "ordinal": 0,
+    "parentSeatId": "589348d38ebcc2000ea17f10",
+    "visionary": false
+  }
+]
